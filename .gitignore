@@ -1,0 +1,28 @@
+# General
+.DS_Store
+Thumbs.db
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env*/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+datasets/raw/*.csv
+datasets/raw/*.sql
+datasets/processed/
+
+# OS
+.svn/
+.idea/
+.vscode/
+
+# BI/Exports
+*.pbix
+*.tmp
