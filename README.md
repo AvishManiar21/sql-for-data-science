@@ -28,4 +28,4 @@ It includes datasets, SQL queries, analysis reports, and a final capstone analyt
 ## 📈 Author
 **Avish Maniar**  
 Junior, Computer Science – Gannon University  
-📧 avishmaniar@gannon.edu | 🌐 [GitHub](https://github.com/AvishManiar21)
+📧 maniar001@gannon.edu | 🌐 [GitHub](https://github.com/AvishManiar21)
